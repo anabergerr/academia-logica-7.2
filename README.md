@@ -19,3 +19,4 @@ function isZero (number) {
    return "Not zero";
 }
 ```
+**Exercício 7:** Escreva uma função que, dado um array, verifique se todos os valores são iguais. Valide que o tipo de entrada seja array e que o tamanho seja maior que 1. 
