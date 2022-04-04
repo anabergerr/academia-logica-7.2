@@ -2,7 +2,7 @@
 
 **Exercício 1:** Escreva uma função que dado um valor numérico retorne se o valor é par.
 
-**Exercício 2:** Escreva uma função que recebe por parâmetro um array de números e retorna a soma dos números pares. Se nenhum número for par, ou o array for vazio a soma deve ser zero. 
+**Exercício 2:** Escreva uma função que recebe por parâmetro um array de números e retorna a soma dos números pares. Se nenhum número for par, ou o array for vazio a soma deve ser zero. ( dica: já fizemos uma função que verificar se o número é par)  
 
 **Exercício 3:** Escreva uma função que dado um parâmetro retorna se o tipo de dado é Number. 
 
