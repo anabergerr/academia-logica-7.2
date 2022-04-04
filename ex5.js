@@ -3,3 +3,14 @@
 //git   A fórmula para o cálculo é velocidade = tempo * gravidade. 
 //Considere a gravidade constante de 9.8.
 
+const gravidade = 9.8;
+
+
+const velocidadeQueda = (tempo) => {
+  const resultado = tempo * gravidade;
+  return resultado
+};
+
+// ou usando ternário
+
+// const velocidadeQueda = (tempo) => tempo * gravidade;
