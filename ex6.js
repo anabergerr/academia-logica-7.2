@@ -1,0 +1,1 @@
+//Utilizando operadores ternários e arrow functions reescreva a seguinte função:

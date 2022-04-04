@@ -1,0 +1,1 @@
+//Escreva uma função que dado um parâmetro retorna se o tipo de dado é Number.
