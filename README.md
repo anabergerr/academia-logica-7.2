@@ -11,3 +11,11 @@
 **Exercício 5:** Escreva uma função que calcule a velocidade final de um objeto em queda livre dado o tempo que levou para atingir o solo. A fórmula para o cálculo é velocidade = tempo * gravidade. Considere a gravidade constante de 9.8. 
 
 **Exercício 6:** Utilizando operadores ternários e arrow functions reescreva a seguinte função:
+```javascript
+function isZero (number) {
+   if (number === 0) {
+       return "Zero";
+   }
+   return "Not zero";
+}
+```
